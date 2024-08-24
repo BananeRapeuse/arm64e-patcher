@@ -1,10 +1,17 @@
-<img src="derootifier-2-modified.png" alt="Logo" width="70" height="70">
+<img src="arm64e-patcher.png" alt="Logo" width="70" height="70">
 
-# RootHidePatcher
+# arm64e Patcher
 
-patch rootless package to roothide, not work for all packages. in progress...
+patch rootless package to Team Failure's Procursus, not work for all packages. in progress...
 
-# License
-AuxiliaryExecute - https://github.com/Lakr233/AuxiliaryExecute/blob/main/LICENSE (MIT)
-
-FluidGradient - https://github.com/Cindori/FluidGradient/blob/main/LICENSE (MIT)
+# How to usu
+- Manualy download and install
+1. Download the last release
+2. Open it in Sileo
+3. Insall it
+- From the source (recommanded)
+1. In your package manager, add this source:
+```
+https://ph0qu3-111.yourepo.com/
+```
+2. Search for "arm64e Patcher" and install it
