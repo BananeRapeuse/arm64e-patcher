@@ -4,7 +4,7 @@
 
 patch rootless package to Team Failure's Procursus, not work for all packages. in progress...
 
-# How to usu
+# How to use
 - Manualy download and install
 1. Download the last release
 2. Open it in Sileo
