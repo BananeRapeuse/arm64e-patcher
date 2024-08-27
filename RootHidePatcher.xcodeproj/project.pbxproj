@@ -426,7 +426,7 @@
 					"$(PROJECT_DIR)",
 					"$(PROJECT_DIR)/roothide",
 				);
-				MARKETING_VERSION = 0.1;
+				MARKETING_VERSION = 0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ph0qu3_111.patcher;
 				PRODUCT_NAME = Patcher;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -468,7 +468,7 @@
 					"$(PROJECT_DIR)",
 					"$(PROJECT_DIR)/roothide",
 				);
-				MARKETING_VERSION = 0.1;
+				MARKETING_VERSION = 0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ph0qu3_111.patcher;
 				PRODUCT_NAME = Patcher;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
